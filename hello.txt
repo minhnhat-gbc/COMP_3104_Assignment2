@@ -1,0 +1,6 @@
+﻿Student Name: Minh Nhat Vo
+Student ID: 101224717
+
+
+Git repo:
+https://github.com/minhnhat-gbc/COMP_3104_Assignment2.git
